@@ -63,7 +63,7 @@ Browsing for the Wow Config Location will be your WoW Legion **Client** folder, 
 
 Once you've set the folder locations, click these buttons
 
-![](https://github.com/skeezerbean/SPP-LegionV2-Management/blob/main/Resources/Config-Generator-Button.PNG)
+<img src="https://github.com/skeezerbean/SPP-LegionV2-Management/blob/main/Resources/Buttons/Config_Generator.png" width="200" height="150">
 
 ![](https://github.com/skeezerbean/SPP-LegionV2-Management/blob/main/Resources/Reload-Configs-Button.PNG)
 
@@ -118,12 +118,12 @@ If this is different than what your config has set, then use the **Set Build** b
 ![](https://github.com/skeezerbean/SPP-LegionV2-Management/blob/main/Resources/Set-Build.PNG)
 
 
-Once you're ready, click on **Export** to save your updated configs to disk. This will auto-backup existing configs into the SPP Config Generator's backup folder before saving new ones
+Once you're ready, click on **Save Changes** to save your updated configs to disk. This will auto-backup existing configs into the SPP Config Generator's backup folder before saving new ones
 
 ![](https://github.com/skeezerbean/SPP-LegionV2-Management/blob/main/Resources/Save-Export-Backup.PNG)
 
 
-Once the config has been exported then you can start/restart your bnet/world servers to use the updated configuration.
+Once the config has been saved then you can start/restart your bnet/world servers to use the updated configuration.
 
 
 ### Account Manager
